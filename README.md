@@ -27,7 +27,7 @@ as well as various variables which can be helpful in predicting whether a patien
 
 The target variable is an encoded diabetes variable: 0 if the patient has no diabetes, 1 if the patient has diabetes.
 
-The dataset used in this project is available on Kaggle:
+The dataset used in this project is available on Kaggle: \
 -> https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
 
 ## Methodology
