@@ -62,7 +62,7 @@ A Dummy Classifier was used as a baseline.
 - Indicates no classifying power (equivalent to random guessing)
 
 ### ROC Curve
-ROC curves were used to evaluate overall model performance across all thresholds.
+ROC curves were used to evaluate overall model performance across all thresholds. \
 -> Random Forest achieved the best overall separation (highest AUC)
 
 ### Threshold Optimization
